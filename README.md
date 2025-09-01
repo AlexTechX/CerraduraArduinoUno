@@ -48,6 +48,3 @@ Este proyecto es una cerradura electrónica con Arduino Uno.
 ![Cerradura 2](cerradura/img/cerradura2.jpg)
 ![Cerradura 3](cerradura/img/Cerradura3.jpg)
 
-<img src="cerradura/img/Cerradura.jpg" width="300">
-<img src="cerradura/img/cerradura2.jpg" width="300">
-<img src="cerradura/img/Cerradura3.jpg" width="300">
