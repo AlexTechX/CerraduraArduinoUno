@@ -32,7 +32,7 @@ This project is an electronic lock using Arduino Uno R3, with:
 
 ## Archivos / Files
 
-- `Cerradura.ino`: codigo principal / main code
+- `cerradura.ino`: codigo principal / main code
 
 ## Notas / Notes
 
