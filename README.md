@@ -38,3 +38,16 @@ This project is an electronic lock using Arduino Uno R3, with:
 
 - No se incluyen diagramas de conexion / Connection diagrams not included
 - Comentarios en el codigo explican paso a paso / Comments in the code explain step by step
+# Cerradura con Arduino
+
+Este proyecto es una cerradura electrónica con Arduino Uno.
+
+## Imágenes del proyecto
+
+![Cerradura 1](cerradura/img/Cerradura.jpg)
+![Cerradura 2](cerradura/img/cerradura2.jpg)
+![Cerradura 3](cerradura/img/Cerradura3.jpg)
+
+<img src="cerradura/img/Cerradura.jpg" width="300">
+<img src="cerradura/img/cerradura2.jpg" width="300">
+<img src="cerradura/img/Cerradura3.jpg" width="300">
